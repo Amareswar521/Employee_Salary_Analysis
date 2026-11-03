@@ -1,6 +1,4 @@
--- Project: Employee Salary Analysis (Basic Level)
--- Database: MySQL
--- Run this script from top to bottom in MySQL Workbench.
+
 
 CREATE DATABASE Employee_Salary_Analysis;
 USE Employee_Salary_Analysis;

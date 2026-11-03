@@ -60,7 +60,6 @@ INSERT INTO Salaries (salary_id, emp_id, salary, bonus) VALUES
 (9, 109, 52000, 5000),
 (10, 110, 75000, 12000);
 
--- 3. Basic analysis queries
 
 -- Q1. Display all employees.
 SELECT * FROM Employees_data;

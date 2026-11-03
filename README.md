@@ -1,5 +1,4 @@
-## Project Overview
-
+##Employee_salary_analysis
 The **Employee Salary Analysis** project is a beginner-friendly SQL project developed to analyze employee salary information and department-wise employee details.
 
 The main objective of this project is to understand employee salary distributions, compare salaries across departments, identify the highest and lowest salaries, and generate useful insights using SQL queries.
